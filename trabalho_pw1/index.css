@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(53, 54, 58, 1);
+    
+    color: aliceblue;
+}
+td{
+    text-align: center;
+}
+tr{
+    border: solid ;
+}
